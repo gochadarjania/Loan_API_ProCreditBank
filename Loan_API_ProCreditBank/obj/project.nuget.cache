@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVnx15dkZ7Gvl3pySwKMJdd/EBrxKL9tTgzqoxA6fmPtjfo2cmE5ul6KiFPP49AXHhwuOLsTHPr/WzVlXS+q7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gocha.darjania\\source\\repos\\Loan_API_ProCreditBank\\Loan_API_ProCreditBank\\Loan_API_ProCreditBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gocha.darjania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\gocha.darjania\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gocha.darjania\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gocha.darjania\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
